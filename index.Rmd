@@ -1,0 +1,40 @@
+---
+---
+
+<script>
+<head>
+    <!--FACEBOOK-->
+
+<head>
+</script>
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+
+<img src="images/rania.JPG" style="float: right; width:30%; border:1px solid; margin-right: 40px" align="right">
+
+
+  
+# {.tabset .tabset-fade .tabset-pills}
+
+## About me
+
+I'm Hala Bahria, a Statistics and Data Science Engineering Student  at the [*Ecole Supérieure de la Statistique et de l'Analyse de l'Information*](http://www.essai.rnu.tn/accueil.htm) .
+
+I am especially interested in Machine Learning, Time Series  and Data mining.   For my projects, I use  always `R`,`Python` and `SAS`. 
+
+You will also find here  my CV and  links to my projects . 
+ 
+Thank you for visiting my website.
+ 
+
+For more information please contact [contact me](mailto:bahriahela1@gmail.com) 
+
+
+---
+
+
+
+
+

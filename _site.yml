@@ -1,0 +1,44 @@
+name: Hala Bahria 
+output_dir: '.'
+navbar:
+  title: HALA BAHRIA
+  type: inverse
+  left:
+  - text: HOME
+    icon: fa-home
+    href: index.html
+  - text: PROJECTS
+    icon: fa-file fa-lg
+    menu: 
+      - text: Times Series
+        href: https://bahriahala.shinyapps.io/shinyapp/
+      - text: Leaflet 
+        href: https://bahriahala.shinyapps.io/mapTunisia/
+      - text: Machine Learning
+        href: projet.pdf
+      - text:  Bayesian Statistics
+        href:  https://www.kaggle.com/helabahria/distrubition-of-tunisian-people-in-urban-areas
+      - text: Sondage
+        href: RapportSondage.pdf
+
+ 
+  - text: MY CV
+    icon: fa-file fa-lg
+    href: Awesome_CV.pdf
+  
+  right:
+ 
+  - icon: fa-github fa-lg
+    href: https://github.com/BahriaHala
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/hala-bahria-6a2b61171/
+  - icon: fa-facebook fa-lg
+    href: https://www.facebook.com/rania.bahria
+output:
+  html_document:
+    theme: readable
+    highlight: textmate
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+
